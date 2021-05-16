@@ -439,4 +439,17 @@
     "keywords": ["BitPortrait"],
     "type": "IMAGE"
   }
+  {
+  "img": "QmRmY11ifSBTJRgL1n8EmJAysePKAguXiyQJMdFTQ1mMjV",
+  "imgSmall": "QmRmY11ifSBTJRgL1n8EmJAysePKAguXiyQJMdFTQ1mMjV",
+  "name": "8x",
+  "supply": 1,
+  "mintAddress": "AM5aJaGbmWYGrAu7zawgMnzLAtSMU1nXBFphnGqaEx8z",
+  "marketAddress": "BaXYNJJJhgMxHyNBum4gybTcedpFL13fksn4msyoWTn7",
+  "redeembable": false,
+  "keywords": [
+    "8x"
+  ],
+  "type": "VIDEO"
+}
 ]
